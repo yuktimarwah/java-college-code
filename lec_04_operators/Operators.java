@@ -20,6 +20,7 @@ public class User_input{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
+        
         System.out.println("enter the 1st number");
         int a = sc.nextInt();
 
